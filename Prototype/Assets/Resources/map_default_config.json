@@ -1,0 +1,18 @@
+{
+    "zones": [
+        {
+            "type": "Residential",
+            "width": 500,
+            "height": 100,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "type": "Residential",
+            "width": 350,
+            "height": 200,
+            "x": 300,
+            "y": 500
+        }
+    ]    
+}

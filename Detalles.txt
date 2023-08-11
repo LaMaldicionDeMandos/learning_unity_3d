@@ -1,0 +1,6 @@
+Calles:
+	Ancho de calle
+		3m por carril + 1m de borde
+		Vereda puede ser 1m a 5m
+	Hasta 2 carriles se considera calle (para ruta se cambia el color)
+	Ruta: (R: 130, G: 130, B: 130)
