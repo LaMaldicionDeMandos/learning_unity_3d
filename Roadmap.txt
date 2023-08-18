@@ -1,10 +1,17 @@
+Spring 1
 Mapa:				1d
 	Desarrollo:			1d
 		Terreno:			4h
 		Configuracion:			2h
 	Mapa Oficial:			0h
 
-Player:				0h
+Player:				2h
+	Player Creacion:		2h
+		Camara:				2h
+			Follow:				2h
+			Rotacion:			
+			Zoom:
+		Movimiento:
 
 Modding:			0h
 	Mapa:			0h
